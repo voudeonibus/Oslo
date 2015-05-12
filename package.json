@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/voudeonibus/oslo.git"
   },
-  "author": "Lucas",
+  "author": "Lucas <lucas@agtlucas.com>",
+  "contributors": [
+    "Carlos Alexandre Fuechter <alexandref93@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/voudeonibus/oslo/issues"
