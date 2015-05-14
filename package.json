@@ -1,6 +1,6 @@
 {
   "name": "oslo",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha",
   "description": "Coming Soon",
   "main": "index.js",
   "scripts": {
